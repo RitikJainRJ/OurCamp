@@ -14,7 +14,7 @@ contract CampaignFactory {
 }
 
 contract Campaign {
-  
+
     struct Request {
         string description;
         uint value;
